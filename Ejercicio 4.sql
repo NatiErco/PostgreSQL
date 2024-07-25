@@ -1,2 +1,2 @@
-UPDATE Books SET price = 13.99 , stock = 4
+UPDATE Books SET price = price * 0.7 , stock = stock - 1
 WHERE book_id = 2

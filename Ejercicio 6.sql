@@ -1,1 +1,1 @@
-REVOKE UPDATE ON BOOKS FROM 'martin'@'localhost';
+REVOKE UPDATE ON BOOKS FROM martin;
